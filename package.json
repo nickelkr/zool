@@ -1,0 +1,8 @@
+{
+  "name": "zool",
+  "version": "0.0.1",
+  "description": "A game of graphic connections",
+  "main": "index.js",
+  "author": "Kyle Nickel",
+  "license": "MIT"
+}
