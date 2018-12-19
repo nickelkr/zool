@@ -4,5 +4,9 @@
   "description": "A game of graphic connections",
   "main": "index.js",
   "author": "Kyle Nickel",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "serve-static": "^1.13.2"
+  }
 }
