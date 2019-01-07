@@ -1,5 +1,3 @@
-import * as d3 from 'd3';
+import * as Phaser from 'phaser';
 
-setTimeout(function() {
-  d3.selectAll("h1").style("color", "red");
-}, 3000);
+var game = new Phaser.Game(800, 600, Phaser.CANVAS, 'board');
